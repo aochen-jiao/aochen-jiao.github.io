@@ -25,7 +25,7 @@ author:
   name             : "Aochen Jiao"
   pronouns         : example: "He/him"  
   bio              : "RA @ CityU HK"
-  # location         : "Earth"
+  location         : # "Earth"
   employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "aochen.jiao@cityu.edu.hk" 
