@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Aochen Jiao"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : example: "He/him"  
+  bio              : "RA at CityU HK"
+  # location         : "Earth"
   employer         : "City University of Hong Kong"
   uri              : # URL
   email            : "aochen.jiao@cityu.edu.hk" 
