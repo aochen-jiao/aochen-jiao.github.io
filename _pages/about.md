@@ -33,33 +33,6 @@ Education
 
 Publication
 ------
-<tr onmouseout="admarker_stop()" onmouseover="admarker_start()">
-	    <td style="padding:5px;width:25%;vertical-align:middle">
-	      <div class="one">
-		<div class="two" id='admarker_image'>
-		  <img src='images/avatar.jpg' width="230"></div>
-		<img src='images/avatar.jpg' width="230">
-	      </div>
-	      <script type="text/javascript">
-		function admarker_start() {
-		  document.getElementById('admarker_image').style.opacity = "1";
-		}
-
-		function admarker_stop() {
-		  document.getElementById('admarker_image').style.opacity = "0";
-		}
-		admarker_stop()
-	      </script>
-	    </td>
-            <td style="padding:10px;width:75%;vertical-align:middle">
-		<!--<p> <a href="https://arxiv.org/abs/2310.15301"> ADMarker: A Multi-Modal Federated Learning System for Monitoring Digital Biomarkers of Alzheimer’s Disease </a>-->
-    <p> <a> Medusa3D: The Watchful Eye Freezing Illegalimate Users in Virtual Reality Interactions</a>
-		</p>
-			<u><b>Aochen Jiao*</b></u>, Di Duan, Weitao Xu <br>
-		<p> [<b>MobileHCI 2024</b>] <br>
-		</p> 
-		 </td>			
-          </tr>
 
 
 <!--For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).-->
