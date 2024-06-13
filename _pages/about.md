@@ -34,7 +34,7 @@ Education
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/aochen-jiao/aochen-jiao.github.io/images/avatar.jpg" alt="Ultra Inertial Poser" style="width: 200px; margin-right: 20px;">
+  <img src="[https://github.com/aochen-jiao/aochen-jiao.github.io/images/avatar.jpg](https://github.com/aochen-jiao/aochen-jiao.github.io/blob/master/images/avatar.jpg)" alt="Ultra Inertial Poser" style="width: 200px; margin-right: 20px;">
   <div>
     <h2>Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging</h2>
     <p>Rayan Armani, Changlin Qian, <b>Jiaxi Jiang</b>, Christian Holz<br>
