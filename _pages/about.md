@@ -34,7 +34,7 @@ Education
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  <img src="../imges/avatar.jpg" alt="avatar" style="width: 200px; margin-right: 20px;">
+  <img src="../images/avatar.jpg" alt="avatar" style="width: 200px; margin-right: 20px;">
   <div>
     <h2>Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</h2>
     <p><b>Aochen Jiao*</b>, Di Duan, Weitao Xu<br>
