@@ -34,12 +34,11 @@ Education
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  ![avatar](https://github.com/aochen-jiao/aochen-jiao.github.io/blob/master/images/avatar.jpg)
-<!--   <img src="./avatar.jpg" alt="avatar" style="width: 200px; margin-right: 20px;"> -->
+  <img src="../imges/avatar.jpg" alt="avatar" style="width: 200px; margin-right: 20px;">
   <div>
-    <h2>Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging</h2>
-    <p>Rayan Armani, Changlin Qian, <b>Jiaxi Jiang</b>, Christian Holz<br>
-    <i>ACM SIGGRAPH 2024</i></p>
+    <h2>Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</h2>
+    <p><b>Aochen Jiao*</b>, Di Duan, Weitao Xu<br>
+    <i>ACM MobileHCI 2024</i></p>
     <p>
       <a href="#">Paper</a> | 
       <a href="#">Project Page</a> | 
