@@ -34,7 +34,7 @@ Education
 Publication
 ------
 <div style="display: flex; align-items: center;">
-  ![avatar](https://aochen-jiao/aochen-jiao.github.io/master/blob/images/avater.jpg)
+  ![avatar](https://github.com/aochen-jiao/aochen-jiao.github.io/blob/master/images/avatar.jpg)
 <!--   <img src="./avatar.jpg" alt="avatar" style="width: 200px; margin-right: 20px;"> -->
   <div>
     <h2>Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging</h2>
