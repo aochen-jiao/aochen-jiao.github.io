@@ -56,7 +56,7 @@ Publication
     <p> <a> Medusa3D: The Watchful Eye Freezing Illegalimate Users in Virtual Reality Interactions</a>
 		</p>
 			<u><b>Aochen Jiao*</b></u>, Di Duan, Weitao Xu <br>
-		<p> [<b>MobileHCI 2024</b>] In the 30th Annual International Conference On Mobile Computing And Networking (Winter Acceptance ratio: 48/207=23.1%) <br>
+		<p> [<b>MobileHCI 2024</b>] <br>
 		</p> 
 		 </td>			
           </tr>
