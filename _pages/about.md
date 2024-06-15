@@ -30,6 +30,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Education
 ------
+
 * M.S. in Electrical and Computer Engineering, UCLA, 2023
 * B.Eng. in Automation, Tongji University, 2021
 
