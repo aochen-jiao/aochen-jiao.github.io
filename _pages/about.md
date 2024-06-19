@@ -19,7 +19,7 @@ Education
 
 News
 ------
-<div style="padding-top: 0; height: 80px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none;">
+<div style="padding-top: 0; height: 80px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0; margin-bottom: 0;">
   <ul>
     <li><strong>Jun. 2024</strong> Medusa3D got accepted by <i>MobileHCI 2024</i>.</li>
     <li><strong>News Item 2:</strong> This is another news item. This is another news item. This is another news item. This is another news item.</li>
