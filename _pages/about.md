@@ -28,7 +28,7 @@ News
     margin-bottom: 0;
   }
 </style>
-<div class="scrolling-div" style="padding: 0; height: 50px; overflow-y: scroll; width: 80%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
+<div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 80%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
   <ul>
     <li><strong>[Jun. 2024]</strong> Medusa3D is accepted by <i>MobileHCI'24</i>.</li>
     <li><strong>News Item 2:</strong> This is another news item. This is another news item. This is another news item. This is another news item.</li>
