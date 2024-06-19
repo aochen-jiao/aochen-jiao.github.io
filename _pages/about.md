@@ -17,7 +17,7 @@ Education
 * M.S. in Electrical and Computer Engineering, UCLA, 2023
 * B.Eng. in Automation, Tongji University, 2021
 
-<div style="border: 1px solid #ccc; padding: 10px; width: 300px; height: 200px; overflow-y: scroll;">
+<div style="padding: 10px; width: 1000px; height: 200px; overflow-y: scroll;">
   <h2>Latest News</h2>
   <ul>
     <li><strong>News Item 1:</strong> This is a news item. This is a news item. This is a news item. This is a news item.</li>
