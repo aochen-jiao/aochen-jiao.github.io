@@ -21,8 +21,8 @@ News
 ------
 <style>
   ul {
-      margin: 0;
-      padding: 0;
+      margin-top: 0;
+      padding-top: 0;
     }
 </style>
 <div style="padding: 0; height: 50px; overflow-y: scroll; width: 80%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
