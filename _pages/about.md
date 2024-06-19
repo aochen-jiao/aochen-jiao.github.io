@@ -19,7 +19,7 @@ Education
 
 News
 ------
-* <strong>[Jun. 2024]</strong> My first paper <i>Medusa3D</i> is accepted by <i>MobileHCI'24</i>.
+* <strong>[Jun. 2024]</strong> My first paper <i>Medusa3D</i> is accepted to <i>MobileHCI'24</i>.
 
 <!--
 <style>
