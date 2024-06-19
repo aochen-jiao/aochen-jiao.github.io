@@ -23,6 +23,8 @@ News
   ul {
       margin-top: 0;
       padding-top: 0;
+      margin-bottom: 0;
+      padding-bottom: 0;
     }
   .scrolling-div {
     margin-bottom: 0;
