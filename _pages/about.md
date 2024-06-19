@@ -46,7 +46,7 @@ Publication
   <img src="../images/Medusa3D_teaser_png.PNG" alt="teaser" style="width: 200px; height: 70px; margin-right: 20px;">
   <div>
     <p style="font-size: 16px; margin: 0;">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</P>
-    <p style="font-size: 16px;"><b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br><i>ACM MobileHCI 2024</i></p>
+    <p style="font-size: 16px;"><b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i>)<br><i>ACM MobileHCI 2024</i></p>
 <!--     <p>
       <a href="#">Paper</a> | 
       <a href="#">Project Page</a> | 
