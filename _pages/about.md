@@ -19,7 +19,7 @@ Education
 
 News
 ------
-<div style="padding: 10px; height: 200px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none;">
+<div style="padding-top: 1px; height: 100px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none;">
   <ul>
     <li><strong>News Item 1:</strong> This is a news item. This is a news item. This is a news item. This is a news item.</li>
   </ul>
