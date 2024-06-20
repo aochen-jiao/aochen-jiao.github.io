@@ -45,8 +45,11 @@ Publication
 <div class="container">
   <img src="../images/Medusa3D_teaser_png.PNG" alt="teaser" class="image">
   <div class="content">
-    <p class="title">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</p>
-    <p class="authors"><b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br><i>ACM MobileHCI 2024</i></p>
+    <p class="info">
+      Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
+      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br>
+      <i>ACM MobileHCI 2024</i>
+    </p>
     <!-- <p>
       <a href="#">Paper</a> | 
       <a href="#">Project Page</a> | 
@@ -73,13 +76,9 @@ Publication
     flex: 1;
   }
 
-  .title, .authors {
+  .info {
     font-size: 16px;
     margin: 0;
-  }
-
-  .authors {
-    margin-top: 10px;
   }
 
   @media (max-width: 600px) {
@@ -89,21 +88,19 @@ Publication
     }
     .image {
       display: block;
-      margin: 0 auto 10px auto;
+      margin: 0 auto 10px auto; /* 图片居中并在下方添加一些间距 */
     }
     .content {
       width: 100%;
       text-align: left;
     }
-    .title, .authors {
+    .info {
       text-align: left;
-      margin: 0;
-    }
-    .authors {
-      margin-top: 0;
+      margin: 0; /* 确保没有多余的空白行 */
     }
   }
 </style>
+
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
 <!--A data-driven personal website
