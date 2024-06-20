@@ -84,7 +84,7 @@ Publication
     display: inline-block;
     padding: 0px 5px;
     margin-left: 10px;
-    font-size: 12px;
+    font-size: 13px;
     color: white;
     background-color: #007BFF;
     text-decoration: none;
