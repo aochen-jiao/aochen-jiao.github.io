@@ -47,8 +47,7 @@ Publication
   <div class="content">
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
-      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br>
-      <i>ACM MobileHCI 2024</i>
+      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br><i>ACM MobileHCI 2024</i>
     </p>
     <!-- <p>
       <a href="#">Paper</a> | 
@@ -88,7 +87,7 @@ Publication
     }
     .image {
       display: block;
-      margin: 0 auto 10px auto; /* 图片居中并在下方添加一些间距 */
+      margin: 0 auto 10px auto; 
     }
     .content {
       width: 100%;
@@ -96,7 +95,7 @@ Publication
     }
     .info {
       text-align: left;
-      margin: 0; /* 确保没有多余的空白行 */
+      margin: 0; 
     }
   }
 </style>
