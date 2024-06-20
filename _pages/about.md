@@ -42,11 +42,14 @@ News
 
 Publication
 ------
-<div style="display: flex; align-items: center;">
-  <img src="../images/Medusa3D_teaser_png.PNG" alt="teaser" style="width: 235px; margin-right: 2%;">
-  <div>
-    <p style="font-size: 16px; margin: 0;">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</P>
-    <p style="font-size: 16px;"><b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br><i>ACM MobileHCI 2024</i></p>
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  <img src="../images/Medusa3D_teaser_png.PNG" alt="teaser" style="width: 235px; margin: 0 auto;">
+  <div style="width: 100%; text-align: center;">
+    <p style="font-size: 16px; margin: 0;">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</p>
+    <p style="font-size: 16px;">
+      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br>
+      <i>ACM MobileHCI 2024</i>
+    </p>
 <!--     <p>
       <a href="#">Paper</a> | 
       <a href="#">Project Page</a> | 
@@ -56,6 +59,21 @@ Publication
     </p> -->
   </div>
 </div>
+
+<style>
+  @media (max-width: 600px) {
+    div {
+      display: block;
+      text-align: center;
+    }
+    img {
+      margin: 0 auto;
+    }
+    p {
+      margin: 0;
+    }
+  }
+</style>
 
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
