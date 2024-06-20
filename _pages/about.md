@@ -76,7 +76,7 @@ Publication
 
   .button {
     display: inline-block;
-    padding: 2px 5px;
+    padding: 2px 2px;
     margin-left: 10px;
     font-size: 12px;
     color: white;
@@ -89,6 +89,9 @@ Publication
     background-color: #0056b3;
   }
 
+  .button:link, .button:visited, .button:hover, .button:active {
+    text-decoration: none; 
+  }
   @media (max-width: 600px) {
     .container {
       display: block;
