@@ -78,20 +78,29 @@ Publication
     margin: 0;
   }
 
+  .authors {
+    margin-top: 10px;
+  }
+
   @media (max-width: 600px) {
     .container {
       display: block;
       text-align: left;
     }
     .image {
-      margin: 0 auto;
+      display: block;
+      margin: 0 auto 10px auto;
     }
     .content {
       width: 100%;
+      text-align: left;
     }
     .title, .authors {
-      margin-top: 10px;
       text-align: left;
+      margin: 0;
+    }
+    .authors {
+      margin-top: 10px;
     }
   }
 </style>
