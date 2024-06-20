@@ -47,7 +47,7 @@ Publication
   <div class="content">
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
-      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu <span class="nowrap">( * <i>Equal contribution</i> )</span><br>
+      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu <span class="nowrap">(*<i>Equal contribution</i>)</span><br>
       <i>ACM MobileHCI 2024</i> <a href="#" class="button">PDF</a>
     </p>
   </div>
@@ -72,6 +72,11 @@ Publication
   .info {
     font-size: 15px;
     margin: 0;
+  }
+
+  .nowrap {
+    white-space: nowrap; 
+    display: inline-block;
   }
 
   .button {
@@ -108,6 +113,10 @@ Publication
     .info {
       text-align: left;
       margin: 0;
+    }
+    .nowrap {
+      white-space: nowrap;
+      display: inline-block;
     }
   }
 </style>
