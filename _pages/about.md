@@ -62,6 +62,7 @@ Publication
 
   .image {
     width: 235px;
+    height: 80px;
     margin-right: 2%;
   }
 
