@@ -76,9 +76,9 @@ Publication
 
   .button {
     display: inline-block;
-    padding: 3px 6px;
+    padding: 2px 5px;
     margin-left: 10px;
-    font-size: 14px;
+    font-size: 12px;
     color: white;
     background-color: #007BFF;
     text-decoration: none;
