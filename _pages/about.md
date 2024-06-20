@@ -81,7 +81,7 @@ Publication
   @media (max-width: 600px) {
     .container {
       display: block;
-      text-align: center;
+      text-align: left;
     }
     .image {
       margin: 0 auto;
@@ -91,6 +91,7 @@ Publication
     }
     .title, .authors {
       margin-top: 10px;
+      text-align: left;
     }
   }
 </style>
