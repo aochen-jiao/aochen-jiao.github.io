@@ -19,7 +19,7 @@ Education
 
 News
 ------
-* <strong>[Jun. 2024]</strong> My first paper <i>Medusa3D</i> is accepted to <i>MobileHCI'24</i>.
+* <b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted to <i>MobileHCI'24</i>.
 
 <!--
 <style>
@@ -47,7 +47,7 @@ Publication
   <div class="content">
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
-      <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu <span class="nowrap">(*<i>Equal contribution</i>)</span><br>
+      <strong>Aochen Jiao*</strong>, Di Duan* and Weitao Xu <span class="nowrap">(*<i>Equal contribution</i>)</span><br>
       <i>ACM MobileHCI 2024</i> <a href="#" class="button">PDF</a>
     </p>
   </div>
