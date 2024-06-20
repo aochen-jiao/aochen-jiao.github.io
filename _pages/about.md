@@ -48,15 +48,12 @@ Publication
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
       <b>Aochen Jiao*</b>, Di Duan* and Weitao Xu ( * <i>Equal contribution</i> )<br>
-      <i>ACM MobileHCI 2024</i> <a href="#">Paper</a> | <a href="#">Video</a> 
+      <i>ACM MobileHCI 2024</i>
     </p>
-<!--     <p>
-      <a href="#">Paper</a> | 
-      <a href="#">Project Page</a> | 
-      <a href="#">Video</a> | 
-      <a href="#">BibTeX</a> | 
-      <a href="#">Code</a>
-    </p> -->
+    <p class="buttons">
+      <a href="#" class="button">Paper</a>
+      <a href="#" class="button">Video</a>
+    </p>
   </div>
 </div>
 
@@ -81,6 +78,25 @@ Publication
     margin: 0;
   }
 
+  .buttons {
+    margin-top: 10px;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+
+  .button:hover {
+    background-color: #0056b3;
+  }
+
   @media (max-width: 600px) {
     .container {
       display: block;
@@ -88,7 +104,7 @@ Publication
     }
     .image {
       display: block;
-      margin: 0 auto 10px auto; 
+      margin: 0 auto 10px auto;
     }
     .content {
       width: 100%;
@@ -96,7 +112,10 @@ Publication
     }
     .info {
       text-align: left;
-      margin: 0; 
+      margin: 0;
+    }
+    .buttons {
+      text-align: left;
     }
   }
 </style>
