@@ -10,7 +10,7 @@ About me
 ======
 I am Aochen Jiao, currently a research assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), where I am supervised by Prof. [Weitao Xu](https://weitaoxu.com) and Prof. [Shengdong Zhao](https://shengdongzhao.com). Prior to that, I received my Master's degree from [UCLA](https://www.ucla.edu/) and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/). My research interests lie on the intersection of human-computer interaction, ubiquitous computing and AR/VR.
 
-I am actively looking for Ph.D. position starting from Spring/Fall 2025. If you have any relative information please feel free to contact me!
+I am actively looking for Ph.D. position starting in Spring/Fall 2025. If you have any relative information please feel free to contact me!
 
 Education
 ------
@@ -35,7 +35,7 @@ News
 </style>
 <div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
   <ul>
-    <li><strong>[Jun. 2024]</strong> My first paper <i>Medusa3D</i> is accepted by <i>MobileHCI'24</i>.</li>
+    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>MobileHCI'24</i>.</li>
   </ul>
 </div>
 -->
