@@ -14,8 +14,8 @@ I am actively looking for Ph.D. position starting in Spring/Fall 2025. If you ha
 
 Education
 ------
-* M.S. in Electrical and Computer Engineering, UCLA, 2023
-* B.Eng. in Automation, Tongji University, 2021
+* M.S. in Electrical and Computer Engineering, UCLA, 2023.
+* B.Eng. in Automation, Tongji University, 2021.
 
 News
 ------
@@ -35,7 +35,7 @@ News
 </style>
 <div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
   <ul>
-    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>MobileHCI'24</i>.</li>
+    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/).</li>
   </ul>
 </div>
 -->
