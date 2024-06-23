@@ -35,7 +35,7 @@ News
 </style>
 <div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
   <ul>
-    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/).</li>
+    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.</li>
   </ul>
 </div>
 -->
