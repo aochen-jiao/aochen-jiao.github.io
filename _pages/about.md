@@ -19,6 +19,7 @@ Education
 
 News
 ------
+* <b>[Jul. 2024]</b> Join HCI Research Summer Camp in Chiang Mai.
 * <b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted to <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.
 
 <!--
