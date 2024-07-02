@@ -92,7 +92,7 @@ Publication
     width: 35px; /* 设置固定宽度 */
     height: 20px; /* 设置固定高度 */
     text-align: center; /* 水平居中 */
-    line-height: 25px; /* 设置与高度相同以实现垂直居中 */
+    line-height: 20px; /* 设置与高度相同以实现垂直居中 */
   }
 
   .button:hover {
