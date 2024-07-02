@@ -19,8 +19,8 @@ Education
 
 News
 ------
-* `[Jul. 2024]` Join the [HCI Research Summer Camp](https://shengdongzhao.com/2024/05/01/chiangmai-camp-2024.html) in Chiang Mai, Thailand.
-* `[Jun. 2024]` My first paper <i>Medusa3D</i> is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
+* <span class="inline-code">[Jul. 2024]</span> Join the [HCI Research Summer Camp](https://shengdongzhao.com/2024/05/01/chiangmai-camp-2024.html) in Chiang Mai, Thailand.
+* <span class="inline-code">[Jun. 2024]</span> My first paper <i>Medusa3D</i> is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
 
 <!--
 <style>
@@ -55,6 +55,12 @@ Publication
 </div>
 
 <style>
+  .inline-code {
+      background: none;
+      font-size: 16px; /* 调整字体大小 */
+      font-family: monospace; /* 使用固定宽度字体 */
+    }
+  
   .container {
     display: flex;
     align-items: center;
