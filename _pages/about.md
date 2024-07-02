@@ -83,15 +83,15 @@ Publication
 
   .button {
     display: inline-block;
-    padding: 5px 0; /* 调整内边距以确保文字垂直居中 */
+    padding: 0px 5px; /* 调整内边距以确保文字垂直居中 */
     margin-left: 10px;
     font-size: 13px;
     color: white;
     background-color: #007BFF;
     text-decoration: none;
     border-radius: 4px;
-    width: 30px; /* 设置固定宽度 */
-    height: 15px; /* 设置固定高度 */
+    width: 40px; /* 设置固定宽度 */
+    height: 25px; /* 设置固定高度 */
     text-align: center; /* 水平居中 */
     line-height: 25px; /* 垂直居中 */
   }
