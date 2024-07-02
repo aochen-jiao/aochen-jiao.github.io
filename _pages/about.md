@@ -44,7 +44,7 @@ News
 Publication
 ------
 <div class="container">
-  <img src="../images/Medusa3D_teaser_png.PNG" alt="teaser" class="image">
+  <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
   <div class="content">
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
