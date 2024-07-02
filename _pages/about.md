@@ -90,9 +90,9 @@ Publication
     text-decoration: none;
     border-radius: 4px;
     width: 35px; /* 设置固定宽度 */
-    height: 18px; /* 设置固定高度 */
+    height: 19px; /* 设置固定高度 */
     text-align: center; /* 水平居中 */
-    line-height: 18px; /* 设置与高度相同以实现垂直居中 */
+    line-height: 19px; /* 设置与高度相同以实现垂直居中 */
   }
 
   .button:hover {
