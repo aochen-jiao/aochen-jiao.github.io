@@ -19,7 +19,7 @@ Education
 
 News
 ------
-* <b>[Jul. 2024]</b> Join HCI Research Summer Camp in Chiang Mai.
+* <b>[Jul. 2024]</b> Join the [HCI Research Summer Camp](https://synteraction.org/news/Chiang%20Mai%20research%20camp.html) in Chiang Mai, Thailand.
 * <b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted to <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.
 
 <!--
