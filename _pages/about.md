@@ -90,8 +90,8 @@ Publication
     background-color: #007BFF;
     text-decoration: none;
     border-radius: 4px;
-    width: 40px; /* 设置固定宽度 */
-    height: 25px; /* 设置固定高度 */
+    width: 35px; /* 设置固定宽度 */
+    height: 20px; /* 设置固定高度 */
     text-align: center; /* 水平居中 */
     line-height: 25px; /* 垂直居中 */
   }
