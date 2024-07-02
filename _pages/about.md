@@ -19,8 +19,8 @@ Education
 
 News
 ------
-* [Jul. 2024] Join the <i>[HCI Research Summer Camp](https://shengdongzhao.com/2024/05/01/chiangmai-camp-2024.html)</i> in Chiang Mai, Thailand.
-* [Jun. 2024] My first paper <i>Medusa3D</i> is accepted to <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>. See you in Melbourne!
+* [Jul. 2024] Join the [<i>HCI Research Summer Camp</i>](https://shengdongzhao.com/2024/05/01/chiangmai-camp-2024.html) in Chiang Mai, Thailand.
+* [Jun. 2024] My first paper <i>Medusa3D</i> is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
 
 <!--
 <style>
@@ -49,7 +49,7 @@ Publication
     <p class="info">
       Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
       <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
-      <i>ACM MobileHCI 2024</i> <a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a>
+      <i>ACM MobileHCI 2024</i> <a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a href="https://doi.org/10.1145/3676515" class="button">cite</a>
     </p>
   </div>
 </div>
