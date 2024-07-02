@@ -89,10 +89,10 @@ Publication
     background-color: #007BFF;
     text-decoration: none;
     border-radius: 4px;
-    width: 35px; /* 设置固定宽度 */
-    height: 19px; /* 设置固定高度 */
-    text-align: center; /* 水平居中 */
-    line-height: 19px; /* 设置与高度相同以实现垂直居中 */
+    width: 35px;
+    height: 19px;
+    text-align: center;
+    line-height: 19px;
   }
 
   .button:hover {
