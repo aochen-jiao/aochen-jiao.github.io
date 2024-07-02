@@ -83,7 +83,7 @@ Publication
 
   .button {
     display: inline-block;
-    padding: 0px 5px; /* 调整内边距以确保文字垂直居中 */
+    padding: 5px 5px; /* 调整内边距以确保文字垂直居中 */
     margin-left: 10px;
     font-size: 13px;
     color: white;
