@@ -83,7 +83,6 @@ Publication
 
   .button {
     display: inline-block;
-    padding: 5px 5px; /* 调整内边距以确保文字垂直居中 */
     margin-left: 10px;
     font-size: 13px;
     color: white;
@@ -93,7 +92,7 @@ Publication
     width: 35px; /* 设置固定宽度 */
     height: 20px; /* 设置固定高度 */
     text-align: center; /* 水平居中 */
-    line-height: 25px; /* 垂直居中 */
+    line-height: 25px; /* 设置与高度相同以实现垂直居中 */
   }
 
   .button:hover {
