@@ -64,6 +64,11 @@ Publication
 
 
 <style>
+  * {
+        animation: none !important;
+        transition: none !important;
+    }
+  
   .inline-code {
       background: none;
       font-size: 16px; 
