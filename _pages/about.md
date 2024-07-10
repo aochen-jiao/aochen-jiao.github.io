@@ -54,6 +54,8 @@ Publication
   </div>
 </div>
 
+<div style="height: 20px;"></div>
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
     <div style="width: 100px; height: 100px;">
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FnTf2aXCZTXyrD3BgRX-NB64wxWDhwyuybP4llHBknU"></script>
