@@ -54,6 +54,8 @@ Publication
   </div>
 </div>
 
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FnTf2aXCZTXyrD3BgRX-NB64wxWDhwyuybP4llHBknU"></script>
 <style>
   .inline-code {
       background: none;
