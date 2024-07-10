@@ -73,7 +73,8 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FnTf2aXCZTXyrD3BgRX-NB64wxWDhwyuybP4llHBknU"></script>
+clustrmaps_script: '<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FnTf2aXCZTXyrD3BgRX-NB64wxWDhwyuybP4llHBknU"></script>'
+
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
