@@ -93,6 +93,7 @@ Publication
       height: 19px;
       text-align: center;
       line-height: 19px;
+      cursor: pointer;
     }
 
     .button:hover {
