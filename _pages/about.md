@@ -43,114 +43,6 @@ News
 
 Publication
 ------
-<div class="container">
-  <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
-  <div class="content">
-    <p class="info">
-      Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
-      <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
-      <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a href="#" class="button">Cite</a></span>
-    </p>
-  </div>
-</div>
-
-<div id="bibtex-container" style="display:none; margin-top: 10px;">
-  <pre id="bibtex-entry" class="inline-code">
-@article{jiao2024medusa3d,
-  title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
-  author={Jiao, Aochen and Duan, Di and Xu, Weitao},
-  journal={Proceedings of the ACM on Human-Computer Interaction},
-  volume={8},
-  number={MHCI},
-  pages={1--21},
-  year={2024},
-  publisher={ACM New York, NY, USA}
-}
-  </pre>
-  <button class="button" onclick="copyBibtex()">Copy</button>
-</div>
-
-<style>
-  
-  .inline-code {
-      background: none;
-      font-size: 16px; 
-      font-family: monospace;
-    }
-  
-  .container {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-  }
-
-  .image {
-    width: 235px;
-    height: 80px;
-    margin-right: 2%;
-  }
-
-  .content {
-    flex: 1;
-  }
-
-  .info {
-    font-size: 15px;
-    margin: 0;
-  }
-
-  .nowrap {
-    white-space: nowrap; 
-    display: inline-block;
-  }
-
-  .button {
-    display: inline-block;
-    margin-left: 10px;
-    font-size: 13px;
-    color: white;
-    background-color: #007BFF;
-    text-decoration: none;
-    border-radius: 4px;
-    width: 35px;
-    height: 19px;
-    text-align: center;
-    line-height: 19px;
-  }
-
-  .button:hover {
-    background-color: #0056b3;
-  }
-
-  .button:link, .button:visited, .button:hover, .button:active {
-    text-decoration: none; 
-  }
-
-  @media (max-width: 600px) {
-    .container {
-      display: block;
-      text-align: left;
-    }
-    .image {
-      display: block;
-      margin: 0 auto 10px auto;
-    }
-    .content {
-      width: 100%;
-      text-align: left;
-    }
-    .info {
-      text-align: left;
-      margin: 0;
-    }
-    .nowrap {
-      white-space: nowrap;
-      display: inline-block;
-    }
-  }
-</style>
-
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -249,16 +141,15 @@ Publication
 
   <div id="bibtex-container" style="display:none; margin-top: 10px;">
     <pre id="bibtex-entry" class="inline-code">
-@inproceedings{mhci2023-vigather,
-  title = {ViGather: Inclusive Virtual Conferencing with a Joint Experience Across Traditional Screen Devices and Mixed Reality Headsets},
-  author = {Qiu, Huajian and Streli, Paul and Luong, Tiffany and Gebhardt, Christoph and Holz, Christian},
-  booktitle = {Proceedings of the ACM Conference on Mobile Human-Computer Interaction},
-  volume = {7},
-  pages = {1--27},
-  year = {2023},
-  doi = {https://doi.org/10.1145/3604279},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA}
+@article{jiao2024medusa3d,
+  title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
+  author={Jiao, Aochen and Duan, Di and Xu, Weitao},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={8},
+  number={MHCI},
+  pages={1--21},
+  year={2024},
+  publisher={ACM New York, NY, USA}
 }
     </pre>
     <button class="button" onclick="copyBibtex()">Copy</button>
