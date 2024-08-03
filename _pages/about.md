@@ -127,6 +127,7 @@ Publication
       }
     }
   </style>
+
 </head>
 <body>
   <div class="container">
@@ -135,13 +136,13 @@ Publication
       <p class="info">
         Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
         <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
-        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex()">Cite</a></span>
+        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex('bibtex-container-medusa3d')">Cite</a></span>
       </p>
     </div>
   </div>
 
-  <div id="bibtex-container" style="display:none; margin-top: 10px;">
-    <pre id="bibtex-entry" class="inline-code">
+  <div id="bibtex-container-medusa3d" style="display:none; margin-top: 10px;">
+    <pre id="bibtex-entry-medusa3d" class="inline-code">
 @article{jiao2024medusa3d,
   title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
   author={Jiao, Aochen and Duan, Di and Xu, Weitao},
@@ -155,7 +156,7 @@ Publication
   publisher={ACM New York, NY, USA}
 }
     </pre>
-    <button class="button" onclick="copyBibtex()">Copy</button>
+    <button class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</button>
   </div>
 
   <div class="container">
@@ -164,13 +165,13 @@ Publication
       <p class="info">
         Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
         <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
-        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex()">Cite</a></span>
+        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex('bibtex-container1')">Cite</a></span>
       </p>
     </div>
   </div>
 
-  <div id="bibtex-container" style="display:none; margin-top: 10px;">
-    <pre id="bibtex-entry" class="inline-code">
+  <div id="bibtex-container_1" style="display:none; margin-top: 10px;">
+    <pre id="bibtex-entry_1" class="inline-code">
 @inproceedings{mhci2023-vigather,
   title = {ViGather: Inclusive Virtual Conferencing with a Joint Experience Across Traditional Screen Devices and Mixed Reality Headsets},
   author = {Qiu, Huajian and Streli, Paul and Luong, Tiffany and Gebhardt, Christoph and Holz, Christian},
@@ -183,12 +184,12 @@ Publication
   address = {New York, NY, USA}
 }
     </pre>
-    <button class="button" onclick="copyBibtex()">Copy</button>
+    <button class="button" onclick="copyBibtex('bibtex-entry_1')">Copy</button>
   </div>
 
   <script>
-    function showBibtex() {
-      var bibtexContainer = document.getElementById('bibtex-container');
+    function showBibtex(containerId) {
+      var bibtexContainer = document.getElementById(containerId);
       if (bibtexContainer.style.display === "none") {
         bibtexContainer.style.display = "block";
       } else {
@@ -196,8 +197,8 @@ Publication
       }
     }
 
-    function copyBibtex() {
-      var bibtexEntry = document.getElementById('bibtex-entry').innerText;
+    function copyBibtex(entryId) {
+      var bibtexEntry = document.getElementById(entryId).innerText;
       navigator.clipboard.writeText(bibtexEntry).then(function() {
         alert('BibTeX entry copied to clipboard!');
       }, function(err) {
