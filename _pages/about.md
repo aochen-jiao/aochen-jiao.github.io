@@ -156,35 +156,7 @@ Publication
   publisher={ACM New York, NY, USA}
 }
     </pre>
-    <button class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</button>
-  </div>
-
-  <div class="container">
-    <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
-    <div class="content">
-      <p class="info">
-        Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
-        <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
-        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex('bibtex-container_1')">Cite</a></span>
-      </p>
-    </div>
-  </div>
-
-  <div id="bibtex-container_1" style="display:none; margin-top: 10px;">
-    <pre id="bibtex-entry_1" class="inline-code">
-@inproceedings{mhci2023-vigather,
-  title = {ViGather: Inclusive Virtual Conferencing with a Joint Experience Across Traditional Screen Devices and Mixed Reality Headsets},
-  author = {Qiu, Huajian and Streli, Paul and Luong, Tiffany and Gebhardt, Christoph and Holz, Christian},
-  booktitle = {Proceedings of the ACM Conference on Mobile Human-Computer Interaction},
-  volume = {7},
-  pages = {1--27},
-  year = {2023},
-  doi = {https://doi.org/10.1145/3604279},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA}
-}
-    </pre>
-    <button class="button" onclick="copyBibtex('bibtex-entry_1')">Copy</button>
+    <a class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy<a>
   </div>
 
   <script>
