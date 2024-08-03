@@ -168,12 +168,12 @@ Publication
       }
     }
 
-    function copyBibtex(entryId, button) {
+    function copyBibtex(entryId, a) {
       var bibtexEntry = document.getElementById(entryId).innerText;
       navigator.clipboard.writeText(bibtexEntry).then(function() {
-        button.innerHTML = '✓';
+        a.innerHTML = '✓';
         setTimeout(function() {
-          button.innerHTML = 'Copy';
+          a.innerHTML = 'Copy';
         }, 3000);
       }, function(err) {
         console.error('Could not copy text: ', err);
