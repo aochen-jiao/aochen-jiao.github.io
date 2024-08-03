@@ -147,6 +147,8 @@ Publication
   journal={Proceedings of the ACM on Human-Computer Interaction},
   volume={8},
   number={MHCI},
+  url = {https://doi.org/10.1145/3676515},
+  doi = {10.1145/3676515}
   pages={1--21},
   year={2024},
   publisher={ACM New York, NY, USA}
