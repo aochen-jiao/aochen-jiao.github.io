@@ -149,8 +149,8 @@ Publication
   journal={Proceedings of the ACM on Human-Computer Interaction},
   volume={8},
   number={MHCI},
-  doi = {10.1145/3676515},
   pages={1--21},
+  doi = {10.1145/3676515},
   year={2024},
   publisher={ACM New York, NY, USA}
 }
@@ -168,13 +168,10 @@ Publication
       }
     }
 
-    function copyBibtex(entryId, button) {
+    function copyBibtex(entryId) {
       var bibtexEntry = document.getElementById(entryId).innerText;
       navigator.clipboard.writeText(bibtexEntry).then(function() {
-        button.innerHTML = '✓';
-        setTimeout(function() {
-          button.innerHTML = 'Copy';
-        }, 3000);
+        alert('BibTeX entry copied to clipboard!');
       }, function(err) {
         console.error('Could not copy text: ', err);
       });
