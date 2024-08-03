@@ -99,7 +99,7 @@ Publication
       background-color: #0056b3;
     }
 
-    .button:link, .button:visited, .button:hover, .button:active {
+    .button:link, .button:visited, .button:hover, .button:active, .button, a.button {
       text-decoration: none; 
     }
 
