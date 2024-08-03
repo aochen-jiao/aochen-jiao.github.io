@@ -156,7 +156,7 @@ Publication
   publisher={ACM New York, NY, USA}
 }
     </pre>
-    <a class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy<a>
+    <a class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</a>
   </div>
 
   <script>
