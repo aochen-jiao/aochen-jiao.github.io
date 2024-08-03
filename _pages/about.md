@@ -158,6 +158,35 @@ Publication
     <button class="button" onclick="copyBibtex()">Copy</button>
   </div>
 
+  <div class="container">
+    <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
+    <div class="content">
+      <p class="info">
+        Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions<br>
+        <strong>Aochen Jiao</strong>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span><br>
+        <i>ACM MobileHCI 2024</i> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex()">Cite</a></span>
+      </p>
+    </div>
+  </div>
+
+  <div id="bibtex-container" style="display:none; margin-top: 10px;">
+    <pre id="bibtex-entry" class="inline-code">
+@article{jiao2024medusa3d,
+  title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
+  author={Jiao, Aochen and Duan, Di and Xu, Weitao},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={8},
+  number={MHCI},
+  url = {https://doi.org/10.1145/3676515},
+  doi = {10.1145/3676515}
+  pages={1--21},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
+    </pre>
+    <button class="button" onclick="copyBibtex()">Copy</button>
+  </div>
+
   <script>
     function showBibtex() {
       var bibtexContainer = document.getElementById('bibtex-container');
