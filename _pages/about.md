@@ -171,17 +171,16 @@ Publication
 
   <div id="bibtex-container" style="display:none; margin-top: 10px;">
     <pre id="bibtex-entry" class="inline-code">
-@article{jiao2024medusa3d,
-  title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
-  author={Jiao, Aochen and Duan, Di and Xu, Weitao},
-  journal={Proceedings of the ACM on Human-Computer Interaction},
-  volume={8},
-  number={MHCI},
-  url = {https://doi.org/10.1145/3676515},
-  doi = {10.1145/3676515}
-  pages={1--21},
-  year={2024},
-  publisher={ACM New York, NY, USA}
+@inproceedings{mhci2023-vigather,
+  title = {ViGather: Inclusive Virtual Conferencing with a Joint Experience Across Traditional Screen Devices and Mixed Reality Headsets},
+  author = {Qiu, Huajian and Streli, Paul and Luong, Tiffany and Gebhardt, Christoph and Holz, Christian},
+  booktitle = {Proceedings of the ACM Conference on Mobile Human-Computer Interaction},
+  volume = {7},
+  pages = {1--27},
+  year = {2023},
+  doi = {https://doi.org/10.1145/3604279},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA}
 }
     </pre>
     <button class="button" onclick="copyBibtex()">Copy</button>
