@@ -70,8 +70,8 @@ Publication
   volume={8},
   number={MHCI},
   pages={1--21},
-  doi = {10.1145/3676515},
   year={2024},
+  doi={https://doi.org/10.1145/3676515},
   publisher={ACM New York, NY, USA}
 }
     </pre>
