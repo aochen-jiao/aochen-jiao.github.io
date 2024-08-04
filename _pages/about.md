@@ -20,7 +20,7 @@ Education
 News
 ------
 * <span class="inline-code">[Jul. 2024]</span> Join the [<i>HCI Research Summer Camp</i>](https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html) in Chiang Mai. Thrilled to meet many new interesting friends!
-* <span class="inline-code">[Jun. 2024]</span> My first paper <i>Medusa3D</i> is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
+* <span class="inline-code">[Jun. 2024]</span> My first paper [<i>Medusa3D</i>]("../files/Medusa3D.pdf") is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
 
 <!--
 <style>
