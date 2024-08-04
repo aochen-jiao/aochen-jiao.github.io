@@ -73,8 +73,7 @@ Publication
   year={2024},
   doi={https://doi.org/10.1145/3676515},
   publisher={ACM New York, NY, USA}
-}
-    </pre>
+}</pre>
     <a class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</a>
   </div>
 
