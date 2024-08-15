@@ -33,7 +33,7 @@ Publication
 </head>
 
 <body>
-  <div class="container" style="margin-bottom: 0;">
+  <div class="container">
     <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
     <div class="content">
       <p class="info">
