@@ -101,14 +101,15 @@ Publication
 </body>
 
 <style>
-  .inline-code-news {
-      background: none;
-      font-size: 16px; 
-      font-family: monospace;
-    }
+    .inline-code-news {
+        background: none;
+        font-size: 16px; 
+        font-family: monospace;
+      }
+  
     .inline-code {
       background: #f0f0f0;
-      font-size: 16px; 
+      font-size: 12px; 
       font-family: monospace;
       padding: 10px;
       border-radius: 10px;
