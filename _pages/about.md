@@ -93,7 +93,7 @@ Publication
       font-size: 14px; 
       font-family: monospace;
       padding: 7px 10px;
-      border-radius: 10px;
+      border-radius: 8px;
     }
 
     .container {
