@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 style="margin-top: 0;">About me</h2>
+<h2 style="margin-top: 5px;">About me</h2>
 
 I am Aochen Jiao, currently a research assistant at [City University of Hong Kong](https://www.cityu.edu.hk/), where I am supervised by Prof. [Weitao Xu](https://weitaoxu.com) and Prof. [Shengdong Zhao](https://shengdongzhao.com). Prior to that, I obtained my Master's degree from [UCLA](https://www.ucla.edu/) and Bachelor's degree from [Tongji University](https://en.tongji.edu.cn/p/#/). 
 
