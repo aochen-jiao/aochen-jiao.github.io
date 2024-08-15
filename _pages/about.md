@@ -33,7 +33,7 @@ Publication
 </head>
 
 <body>
-    <div class="container" style="margin-bottom: 0px;">
+    <div class="container" style="margin-bottom: 5px;">
     <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
     <div class="content">
       <p class="info">
@@ -44,7 +44,7 @@ Publication
     </div>
   </div>
   
-  <div class="container" style="margin-bottom: 0px;">
+  <div class="container" style="margin-bottom: 5px;">
     <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
     <div class="content">
       <p class="info">
