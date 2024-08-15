@@ -111,6 +111,7 @@ Publication
       font-size: 16px; 
       font-family: monospace;
       padding: 5px;
+      border-radius: 5px;
     }
 
     .container {
