@@ -43,7 +43,6 @@ Publication
       </p>
     </div>
   </div>
-
   <div id="bibtex-container-medusa3d" style="display:none; margin-top: 0;">
     <pre id="bibtex-entry-medusa3d" class="inline-code">
 @article{jiao2024medusa3d,
