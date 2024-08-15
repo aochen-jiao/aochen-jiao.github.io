@@ -76,7 +76,7 @@ Publication
   doi={https://doi.org/10.1145/3676515},
   publisher={ACM New York, NY, USA}
 }</pre>
-    <a class="button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</a>
+    <a class="copy-button" onclick="copyBibtex('bibtex-entry-medusa3d')">Copy</a>
   </div>
 
   <script>
@@ -113,6 +113,23 @@ Publication
       font-family: monospace;
       padding: 10px;
       border-radius: 10px;
+    }
+
+    .copy-button {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+      font-size: 12px;
+      color: white;
+      background-color: #007BFF;
+      text-decoration: none;
+      border-radius: 4px;
+      padding: 3px 6px;
+      cursor: pointer;
+    }
+
+    .copy-button:hover {
+      background-color: #0056b3;
     }
 
     .container {
