@@ -110,7 +110,7 @@ Publication
       background: #f0f0f0;
       font-size: 16px; 
       font-family: monospace;
-      padding: 10px;
+      padding: 5px;
     }
 
     .container {
