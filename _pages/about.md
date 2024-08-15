@@ -44,7 +44,7 @@ Publication
     </div>
   </div>
 
-  <div id="bibtex-container-medusa3d" style="display:none; margin-top: 10px;">
+  <div id="bibtex-container-medusa3d" style="display:none; margin-top: 5px;">
     <pre id="bibtex-entry-medusa3d" class="inline-code">
 @article{jiao2024medusa3d,
   title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
