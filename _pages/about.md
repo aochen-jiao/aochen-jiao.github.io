@@ -24,25 +24,6 @@ News
 * <span class="inline-code-news">[Jul. 2024]</span> Join the [<i>HCI Research Summer Camp</i>](https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html) in Chiang Mai. Thrilled to meet many new interesting friends!
 * <span class="inline-code-news">[Jun. 2024]</span> My first paper [<i>Medusa3D</i>](../files/Medusa3D.pdf) is accepted to [<i>MobileHCI'24</i>](https://mobilehci.acm.org/2024/). See you in Melbourne!
 
-<!--
-<style>
-  ul {
-      margin-top: 0;
-      padding-top: 0;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
-  .scrolling-div {
-    margin-bottom: 0;
-  }
-</style>
-<div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
-  <ul>
-    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.</li>
-  </ul>
-</div>
--->
-
 Publication
 ------
 <html lang="en">
@@ -111,7 +92,7 @@ Publication
       background: #f0f0f0;
       font-size: 14px; 
       font-family: monospace;
-      padding: 10px;
+      padding: 5px;
       border-radius: 10px;
     }
 
@@ -188,3 +169,22 @@ Publication
     }
   </style>
 </html>
+
+<!--
+<style>
+  ul {
+      margin-top: 0;
+      padding-top: 0;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+  .scrolling-div {
+    margin-bottom: 0;
+  }
+</style>
+<div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
+  <ul>
+    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.</li>
+  </ul>
+</div>
+-->
