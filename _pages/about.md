@@ -110,7 +110,7 @@ Publication
       background: #f0f0f0;
       font-size: 16px; 
       font-family: monospace;
-      padding: 5px;
+      padding: 10px;
       border-radius: 10px;
     }
 
