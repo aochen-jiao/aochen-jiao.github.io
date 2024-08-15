@@ -103,7 +103,7 @@ Publication
 <style>
     .inline-code-news {
         background: none;
-        font-size: 16px; 
+        font-size: 18px; 
         font-family: monospace;
       }
   
