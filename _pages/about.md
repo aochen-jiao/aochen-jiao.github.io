@@ -84,7 +84,7 @@ Publication
 <style>
     .inline-code-news {
         background: none;
-        font-size: 17px; 
+        font-size: 16px; 
         font-family: monospace;
       }
   
