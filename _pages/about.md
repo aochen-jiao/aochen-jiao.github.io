@@ -20,11 +20,11 @@ Education
 ------
 <ul>
   <li>
-    Master of Science, Electrical and Computer Engineering 
-    <span style="float: right;">UCLA</span>
+    M.S. Electrical and Computer Engineering 
+    <span style="float: right;">University of California, Los Angeles</span>
   </li>
   <li>
-    Bachelor of Engineering, Automation
+    B.Eng Automation
     <span style="float: right;">Tongji University</span>
   </li>
 </ul>
