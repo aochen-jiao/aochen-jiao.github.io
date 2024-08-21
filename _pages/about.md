@@ -106,7 +106,7 @@ Publication
   
     .inline-code {
       background: #f0f0f0;
-      font-size: rem; 
+      font-size: 0.9rem; 
       font-family: monospace;
       padding: 7px 10px;
       border-radius: 8px;
