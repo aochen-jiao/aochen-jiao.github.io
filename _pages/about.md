@@ -100,13 +100,13 @@ Publication
 <style>
     .inline-code-news {
         background: none;
-        font-size: 0.8vw; 
+        font-size: 0.95vw; 
         font-family: monospace;
       }
   
     .inline-code {
       background: #f0f0f0;
-      font-size: 0.8vw; 
+      font-size: 0.95vw; 
       font-family: monospace;
       padding: 7px 10px;
       border-radius: 8px;
