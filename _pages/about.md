@@ -18,17 +18,8 @@ redirect_from:
 
 Education
 ------
-<ul>
-  <li>
-    M.S. in Electrical and Computer Engineering 
-    <span style="float: right;">University of California, Los Angeles</span>
-  </li>
-  <li>
-    B.Eng. in Automation
-    <span style="float: right;">Tongji University</span>
-  </li>
-</ul>
-
+* M.S. in Electrical and Computer Engineering, UCLA.
+* B.Eng. in Automation, Tongji University.
 
 News
 ------
