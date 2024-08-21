@@ -20,11 +20,11 @@ Education
 ------
 <ul>
   <li>
-    M.S. in Electrical and Computer Engineering, 
-    <span style="float: right;">UCLA, 2023</span>
+    M.S. in Electrical and Computer Engineering 
+    <span style="float: right;">University of California, Los Angeles, 2023</span>
   </li>
   <li>
-    B.Eng. in Automation, 
+    B.Eng. in Automation
     <span style="float: right;">Tongji University, 2021</span>
   </li>
 </ul>
