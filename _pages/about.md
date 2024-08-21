@@ -18,8 +18,8 @@ redirect_from:
 
 Education
 ------
-* M.S. in Electrical and Computer Engineering, UCLA, 2023.
-* B.Eng. in Automation, Tongji University, 2021.
+* M.S. in Electrical and Computer Engineering <span style="float: right;">UCLA, 2023</span>
+* B.Eng. in Automation <span style="float: right;">Tongji University, 2021</span>
 
 News
 ------
