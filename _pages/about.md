@@ -20,10 +20,10 @@ Education
 ------
 <ul>
   <li>
-    <span style="font-size: 17px;">M.S. in Electrical and Computer Engineering, UCLA.</span>
+    <span style="font-size: vw;">M.S. in Electrical and Computer Engineering, UCLA.</span>
   </li>
   <li>
-    <span style="font-size: 17px;">B.Eng. in Automation, Tongji University.</span>
+    <span style="font-size: vw;">B.Eng. in Automation, Tongji University.</span>
   </li>
 </ul>
 
@@ -32,11 +32,11 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
-    <span style="font-size: 17px;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
+    <span style="font-size: vw;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jun. 2024]</span> 
-    <span style="font-size: 17px;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
+    <span style="font-size: vw;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
   </li>
 </ul>
 
@@ -100,7 +100,7 @@ Publication
 <style>
     .inline-code-news {
         background: none;
-        font-size: 16px; 
+        font-size: vw; 
         font-family: monospace;
       }
   
