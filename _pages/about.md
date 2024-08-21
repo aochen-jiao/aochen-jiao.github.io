@@ -20,12 +20,12 @@ Education
 ------
 <ul>
   <li>
-    Master of Science in Electrical and Computer Engineering 
-    <span style="float: right;">UCLA, 2023</span>
+    Master of Science, Electrical and Computer Engineering 
+    <span style="float: right;">UCLA</span>
   </li>
   <li>
-    Bachelor of Engineering in Automation
-    <span style="float: right;">Tongji University, 2021</span>
+    Bachelor of Engineering, Automation
+    <span style="float: right;">Tongji University</span>
   </li>
 </ul>
 
