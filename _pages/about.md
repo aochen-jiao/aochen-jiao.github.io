@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h2 style="margin-top: 5px;">About me</h2>
 
-<div style="text-align: justify; font-size: vw;">
+<div style="text-align: justify; font-size: 1.1rem;">
 <p>I am Aochen Jiao, currently a research assistant at <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>, where I am supervised by Prof. <a href="https://weitaoxu.com">Weitao Xu</a> and Prof. <a href="https://shengdongzhao.com">Shengdong Zhao</a>. Prior to that, I obtained my Master's degree from <a href="https://www.ucla.edu/">UCLA</a> and Bachelor's degree from <a href="https://en.tongji.edu.cn/">Tongji University</a>.</p>
 
 <p>My research interests lie in the intersection of human-computer interaction, ubiquitous computing, and AR/VR, with a particular focus on enhancing human natural interaction capabilities through innovative wearable technologies. Outside the lab, I enjoy Chinese calligraphy, traveling, and watching soccer matches.</p>
@@ -20,10 +20,10 @@ Education
 ------
 <ul>
   <li>
-    <span style="font-size: vw;">M.S. in Electrical and Computer Engineering, UCLA.</span>
+    <span style="font-size: 1.1rem;">M.S. in Electrical and Computer Engineering, UCLA.</span>
   </li>
   <li>
-    <span style="font-size: vw;">B.Eng. in Automation, Tongji University.</span>
+    <span style="font-size: 1.1rem;">B.Eng. in Automation, Tongji University.</span>
   </li>
 </ul>
 
@@ -32,11 +32,11 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
-    <span style="font-size: vw;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
+    <span style="font-size: 1.1rem;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jun. 2024]</span> 
-    <span style="font-size: vw;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
+    <span style="font-size: 1.1rem;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
   </li>
 </ul>
 
@@ -106,7 +106,7 @@ Publication
   
     .inline-code {
       background: #f0f0f0;
-      font-size: 0.9rem; 
+      font-size: 0.85rem; 
       font-family: monospace;
       padding: 7px 10px;
       border-radius: 8px;
@@ -129,7 +129,7 @@ Publication
     }
 
     .info {
-      font-size: vw;
+      font-size: 1.1rem;
       margin: 0;
     }
 
