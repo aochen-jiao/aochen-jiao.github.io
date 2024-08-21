@@ -24,7 +24,7 @@ Education
     <span style="float: right; font-size: 17px;">UCLA</span>
   </li>
   <li>
-    <span style="font-size: 17px;">B.Eng. in Automation, Tongji University.</span>
+    <span style="font-size: 17px;">B.Eng. in Automation</span>
     <span style="float: right; font-size: 17px;">Tongji University</span>
   </li>
 </ul>
