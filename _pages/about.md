@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: justify; font-size: rem;">
 <p>I am Aochen Jiao, currently a research assistant at <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>, where I am supervised by Prof. <a href="https://weitaoxu.com">Weitao Xu</a> and Prof. <a href="https://shengdongzhao.com">Shengdong Zhao</a>. Prior to that, I obtained my Master's degree from <a href="https://www.ucla.edu/">UCLA</a> and Bachelor's degree from <a href="https://en.tongji.edu.cn/">Tongji University</a>.</p>
 
-<p>My research interests lie in the intersection of HCI, ubiquitous computing, and AR/VR, with a particular focus on enhancing human natural interaction capabilities through innovative wearable technologies. Outside the lab, I enjoy Chinese calligraphy, traveling, and watching soccer matches.</p>
+<p>My research interests lie in the intersection of HCI, ubiquitous computing, and AR/VR, with a particular focus on enhancing human natural interaction capabilities through innovative wearable technologies. Outside the lab, I enjoy Chinese calligraphy, and watching soccer matches.</p>
 
 <p>I am actively looking for a Ph.D. position starting in Fall 2025. If you have any relevant information, please feel free to contact me!</p>
 </div>
