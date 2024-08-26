@@ -32,11 +32,11 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
-    <span style="font-size: 0.97rem;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
+    <span style="font-size: 0.98rem;">Join the <a href="https://synteraction.org/news/conclusion-2024-chiang-mai-research-camp-.html"><i>HCI Research Summer Camp</i></a> in Chiang Mai. Thrilled to meet many new interesting friends!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jun. 2024]</span> 
-    <span style="font-size: 0.97rem;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
+    <span style="font-size: 0.98rem;">My first paper <a href="../files/Medusa3D.pdf"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
   </li>
 </ul>
 
