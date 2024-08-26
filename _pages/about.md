@@ -20,10 +20,10 @@ Education
 ------
 <ul>
   <li>
-    <span style="font-size: rem;">M.S. in Electrical and Computer Engineering, UCLA.</span>
+    <span style="font-size: 0.98rem;">M.S. in Electrical and Computer Engineering, UCLA.</span>
   </li>
   <li>
-    <span style="font-size: rem;">B.Eng. in Automation, Tongji University.</span>
+    <span style="font-size: 0.98rem;">B.Eng. in Automation, Tongji University.</span>
   </li>
 </ul>
 
