@@ -100,7 +100,7 @@ Publication
 <style>
     .inline-code-news {
         background: none;
-        font-size: 0.95rem; 
+        font-size: 0.94rem; 
         font-family: monospace;
       }
   
