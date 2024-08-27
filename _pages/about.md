@@ -2,9 +2,6 @@
 permalink: /
 title: "Aochen Jiao"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 <h2 style="margin-top: 0.3rem;">About me</h2>
 
@@ -203,4 +200,8 @@ Publication
     <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.</li>
   </ul>
 </div>
+
+redirect_from: 
+  - /about/
+  - /about.html
 -->
