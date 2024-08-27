@@ -129,7 +129,7 @@ Publication
     }
 
     .info {
-      font-size: rem;
+      font-size: 0.99rem;
       margin: 0;
     }
 
