@@ -10,7 +10,7 @@ author_profile: true
 
 <p>My research interests lie in the intersection of HCI, ubiquitous computing and AR/VR, with a particular focus on enhancing human natural interaction capabilities through innovative wearable technologies. Outside the lab, I enjoy Chinese calligraphy and watching soccer matches.</p>
 
-<p>I am actively looking for a Ph.D. position starting in Fall 2025. If you have any relevant information, please feel free to contact me!</p>
+<p>I am actively looking for a Ph.D. position starting in Fall 2025. If you have any relevant information, please feel free to <a href="aochen.jiao@cityu.edu.hk">contact me</a>!</p>
 </div>
 
 Education
