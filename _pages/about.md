@@ -58,7 +58,7 @@ Publication
   </div>
   
   <div id="bibtex-container-medusa3d" style="display:none; margin-top: 0;">
-    <pre id="bibtex-entry-medusa3d" class="inline-code">
+    <pre id="bibtex-entry-medusa3d" class="inline-code" style="overflow-x: auto;">
 @article{jiao2024medusa3d,
   title={Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions},
   author={Jiao, Aochen and Duan, Di and Xu, Weitao},
