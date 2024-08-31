@@ -109,19 +109,10 @@ Publication
       border-radius: 8px;
     }
 
-      pre.inline-code {
-      max-width: 100%;
-      margin-left: 0;
-      white-space: pre-wrap;
-      overflow-x: hidden;
-    }
-
-
     .container {
       display: flex;
       align-items: center;
       flex-wrap: wrap;
-      overflow-x: hidden;
     }
 
     .image {
