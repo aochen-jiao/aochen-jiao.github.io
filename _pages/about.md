@@ -113,7 +113,6 @@ Publication
       max-width: 100%;
       margin-left: 0;
       white-space: pre-wrap;
-      word-wrap: break-word;
       overflow-x: hidden;
     }
 
