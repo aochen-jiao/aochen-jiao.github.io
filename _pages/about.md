@@ -109,6 +109,15 @@ Publication
       border-radius: 8px;
     }
 
+      pre.inline-code {
+      max-width: 100%;
+      margin-left: 0;
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      overflow-x: hidden;
+    }
+
+
     .container {
       display: flex;
       align-items: center;
