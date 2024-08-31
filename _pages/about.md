@@ -113,6 +113,7 @@ Publication
       display: flex;
       align-items: center;
       flex-wrap: wrap;
+      overflow-x: hidden;
     }
 
     .image {
