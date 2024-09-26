@@ -33,7 +33,7 @@ News
   </li>
   <li>
     <span class="inline-code-news">[Jun. 2024]</span> 
-    <span style="font-size: 0.98rem;">My first paper <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> is accepted to <a href="https://mobilehci.acm.org/2024/"><i>MobileHCI'24</i></a>. See you in Melbourne!</span>
+    <span style="font-size: 0.98rem;">My first paper <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> is accepted to <i>MobileHCI'24</i>. See you in Melbourne!</span>
   </li>
 </ul>
 
