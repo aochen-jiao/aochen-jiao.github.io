@@ -54,10 +54,10 @@ Publication
     <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
     <div class="content">
       <p class="info">
-        <span style="color: #000000; font-size: 0.98rem; font-weight: 600;">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</span><br>
+        <span style="color: #000000; font-size: 0.983rem; font-weight: 600;">Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</span><br>
         <img src="../images/icon_honorable_mention.jpg" alt="award icon" style="width:20px; vertical-align:middle; margin-left:0;">
-        <span style="color: #FF0000; font-size: 0.98rem;"><i>Honorable Mention Award</i></span><br>
-        <span style="font-size: 0.98rem;"><span style="text-decoration: underline;">Aochen Jiao</span>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span></span><br>
+        <span style="color: #FF0000; font-size: 0.983rem;"><i>Honorable Mention Award</i></span><br>
+        <span style="font-size: 0.983rem;"><span style="text-decoration: underline;">Aochen Jiao</span>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span></span><br>
         <span style="font-size: 0.98rem;"><i>ACM MobileHCI 2024</i></span> <span class="nowrap"><a href="../files/Medusa3D.pdf" class="button">PDF</a> <a href="https://doi.org/10.1145/3676515" class="button">DOI</a> <a class="button" onclick="showBibtex('bibtex-container-medusa3d')">Cite</a></span>
       </p>
     </div>
