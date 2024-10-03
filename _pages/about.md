@@ -54,7 +54,7 @@ Publication
     <img src="../files/Medusa3D_teaser.PNG" alt="teaser" class="image">
     <div class="content">
       <p class="info">
-        <span style="color: #000000; font-size: 0.95rem;"><b>Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</b></span><br>
+        <span style="color: #000000; font-size: 0.98rem;"><b>Medusa3D: The Watchful Eye Freezing Illegitimate Users in Virtual Reality Interactions</b></span><br>
         <img src="../images/icon_honorable_mention.jpg" alt="award icon" style="width:20px; vertical-align:middle; margin-left:0;">
         <span style="color: #FF0000;"><i>Honorable Mention Award</i></span><br>
         <span style="font-size: 0.983rem;"><span style="text-decoration: underline;">Aochen Jiao</span>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span></span><br>
