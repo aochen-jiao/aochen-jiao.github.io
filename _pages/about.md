@@ -29,7 +29,7 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Oct. 2024]</span> 
-    <span style="font-size: 0.98rem;">Present <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> at <i>MobileHCI'24</i> in Melbourne and win the <i>Honorable Mention Award</i>!</span>
+    <span style="font-size: 0.98rem;">Present <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> at <i>MobileHCI'24</i> in Melbourne, and win the <i>Honorable Mention Award</i>!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
