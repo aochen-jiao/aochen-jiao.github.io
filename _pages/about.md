@@ -29,7 +29,7 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Oct. 2024]</span> 
-    <span style="font-size: 0.98rem;">win the <i><b>Honorable Mention Award</b></i> at <i>MobileHCI'24</i>!</span>
+    <span style="font-size: 0.98rem;">win the <i><b>Honorable Mention Award</b></i> at <i>MobileHCI'24</i> in Melbourne!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
