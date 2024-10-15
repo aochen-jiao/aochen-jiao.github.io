@@ -29,7 +29,7 @@ News
 <ul>
   <li>
     <span class="inline-code-news">[Oct. 2024]</span> 
-    <span style="font-size: 0.98rem;">Win the <a href="../files/MobileHCI_Honorable_Mention_Award.pdf"><i>Honorable Mention Award</i></a> at MobileHCI '24 in Melbourne!</span>
+    <span style="font-size: 0.98rem;">Win the <a href="../files/MobileHCI_Honorable_Mention_Award.pdf"><i>Honorable Mention Award</i></a> at MobileHCI'24 in Melbourne!</span>
   </li>
   <li>
     <span class="inline-code-news">[Jul. 2024]</span> 
@@ -37,7 +37,7 @@ News
   </li>
   <li>
     <span class="inline-code-news">[Jun. 2024]</span> 
-    <span style="font-size: 0.98rem;">My first paper <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> is accepted to MobileHCI '24. See you in Melbourne!</span>
+    <span style="font-size: 0.98rem;">My first paper <a href="https://dl.acm.org/doi/10.1145/3676515"><i>Medusa3D</i></a> is accepted to MobileHCI'24. See you in Melbourne!</span>
   </li>
 </ul>
 
