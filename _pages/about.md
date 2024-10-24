@@ -58,7 +58,7 @@ Publication
         <img src="../images/icon_honorable_mention.jpg" alt="award icon" style="width: 1.2rem; vertical-align:middle; margin-left:0;">
         <span style="color: #FF0000; font-size: 0.983rem;"><i>Honorable Mention Award</i></span><br>
         <span style="font-size: 0.983rem;"><span style="text-decoration: underline; color: #000000;">Aochen Jiao</span>*, Di Duan*, and Weitao Xu <span class="nowrap">(* <i>Equal contribution</i>)</span></span><br>
-        <span style="font-size: 0.98rem;">ACM MobileHCI 2024</span> <span class="nowrap" style="font-size: 0.9rem;"><a style="text-decoration: none;" href="../files/Medusa3D.pdf">[PDF]</a> <a style="text-decoration: none;" href="https://doi.org/10.1145/3676515">[DOI]</a> <a style="text-decoration: none;" href="../files/Medusa3D_Slides.pdf">[Slides]</a> <a style="text-decoration: none; cursor: pointer;" onclick="showBibtex('bibtex-container-medusa3d')">[Cite]</a></span>
+        <span style="font-size: 0.98rem;">ACM MobileHCI 2024</span> <span class="nowrap" style="font-size: 0.9rem; font-weight: bold;"><a style="text-decoration: none;" href="../files/Medusa3D.pdf">[PDF]</a> <a style="text-decoration: none;" href="https://doi.org/10.1145/3676515">[DOI]</a> <a style="text-decoration: none;" href="../files/Medusa3D_Slides.pdf">[Slides]</a> <a style="text-decoration: none; cursor: pointer;" onclick="showBibtex('bibtex-container-medusa3d')">[Cite]</a></span>
       </p>
     </div>
   </div>
