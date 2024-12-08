@@ -3,9 +3,7 @@ title: "Some Reflections on HCI Research"
 date: 2024-12-08
 permalink: /posts/2024/12/some-reflections-on-HCI-research/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Research Reflection
 ---
 
 Some Reflections on HCI Research
