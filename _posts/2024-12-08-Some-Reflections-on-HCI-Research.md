@@ -9,12 +9,15 @@ tags:
   <a href="https://aochen-jiao.github.io/" style="
     text-decoration: none; 
     background-color: transparent; 
-    color: black; 
+    color: blue; 
     padding: 4px 6px; 
     border: 2px solid black; 
     border-radius: 5px; 
     font-size: 1rem; 
-    font-weight: bold;">Home</a>
+    font-weight: bold; 
+    transition: all 0.2s ease-in-out;" 
+    onmouseover="this.style.fontSize='1.2rem';" 
+    onmouseout="this.style.fontSize='1rem';">Home</a>
 </div>
 
 <h2> Some Reflections on HCI Research </h2>
