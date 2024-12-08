@@ -5,22 +5,17 @@ permalink: /posts/2024/12/some-reflections-on-HCI-research/
 tags:
   - Research Thinking
 ---
-a.home-button {
-  text-decoration: none;
-  color: #007BFF; /* 蓝色文字 */
-  font-size: 1rem;
-  font-weight: normal;
-  transition: all 0.3s ease; /* 平滑过渡效果 */
-}
+<div style="text-align: left; margin-bottom: 10px;">
+  <a href="https://aochen-jiao.github.io/" style="
+    text-decoration: none; 
+    background-color: #007BFF; 
+    color: white; 
+    padding: 8px 10px; 
+    border-radius: 5px; 
+    font-size: 1rem; 
+    font-weight: bold;">Home</a>
+</div>
 
-/* 鼠标悬停时的样式 */
-a.home-button:hover {
-  font-weight: bold; /* 加粗文字 */
-  font-size: 1.2rem; /* 放大字体 */
-  color: #0056b3; /* 更深的蓝色 */
-}
-
-[Home](https://aochen-jiao.github.io/){: .home-button}
 
 <h2> Some Reflections on HCI Research </h2>
 
