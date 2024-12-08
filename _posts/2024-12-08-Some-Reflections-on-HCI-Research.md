@@ -6,15 +6,23 @@ tags:
   - Research Thinking
 ---
 <div style="text-align: left; margin-bottom: 20px;">
-  <a href="https://aochen-jiao.github.io/" style="
-    text-decoration: none; 
-    background-color: #007BFF; 
-    color: white; 
-    padding: 8px 12px; 
-    border-radius: 5px; 
-    font-size: 1rem; 
-    font-weight: bold;">Home</a>
+  <a href="https://aochen-jiao.github.io/" class="home-button">Home</a>
 </div>
+
+.home-button {
+  text-decoration: none;
+  background-color: #007BFF;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
+
 
 <h2> Some Reflections on HCI Research </h2>
 
