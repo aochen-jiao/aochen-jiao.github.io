@@ -14,11 +14,12 @@ tags:
     border: 2px solid black; 
     border-radius: 5px; 
     font-size: 0.97 rem; 
-    font-weight: bold;
+    font-weight: normal;
     transition: font-size 0.2s, text-decoration 0.2s;
   }
   .button-link:hover {
     font-size: 1.15rem;
+    font-weight: bold;
     text-decoration: underline;
   }
 </style>
