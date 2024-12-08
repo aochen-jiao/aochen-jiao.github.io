@@ -7,7 +7,7 @@ tags:
 ---
 <style>
   .button-link {
-    text-decoration: none; 
+    text-decoration: none !important; 
     background-color: transparent; 
     color: black; 
     padding: 2px 4px; 
