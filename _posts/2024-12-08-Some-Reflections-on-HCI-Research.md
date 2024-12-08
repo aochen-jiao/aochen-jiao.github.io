@@ -6,10 +6,10 @@ tags:
   - Research Reflection
 ---
 
-<h1> Some Reflections on HCI Research </h1>
+<h2> Some Reflections on HCI Research </h2>
 
 
-<h2> From Computers to Humans: Understanding the Core of HCI </h2>
+<h3> From Computers to Humans: Understanding the Core of HCI </h3>
 
 As someone with an engineering background, my initial understanding of HCI was heavily focused on the "computer" aspect. When reading research papers, I paid more attention to system design and technical implementation, often overlooking the discussions about the "human" element. This mindset led me to prioritize complex technical solutions during the early stages of projects, equating technical sophistication with research quality.
 
@@ -19,7 +19,7 @@ In contrast, other fields in computer science often have well-defined tasks and 
 
 ---
 
-<h2> From Points to Wholes: Exploring and Defining Problems </h2>
+<h3> From Points to Wholes: Exploring and Defining Problems </h3>
 
 In research, there can be a tendency to start from a "point" to achieve quick results and publications. However, this goal-driven approach risks producing superficial or even erroneous conclusions. It is akin to the parable of blind men touching an elephant—observing only one part often fails to capture the whole picture.
 
@@ -29,7 +29,7 @@ This process can be daunting, as exploration may uncover more problems, increasi
 
 ---
 
-<h2> From Form to Meaning: Pursuing "Intent" Over "Appearance" </h2>
+<h3> From Form to Meaning: Pursuing "Intent" Over "Appearance" </h3>
 
 If a company's product is akin to a realistic photograph, a research paper is more like a landscape painting. Research's value lies not in fully capturing the "form" but in sketching possible future directions with a few strokes, leaving room for others to imagine and expand. In other words, research emphasizes conveying "intent."
 
