@@ -2,6 +2,8 @@
 title: 'Some Reflections on HCI Research'
 date: 2024-12-08
 ---
+Some Reflections on HCI Research
+------
 
 From Computers to Humans: Understanding the Core of HCI
 
