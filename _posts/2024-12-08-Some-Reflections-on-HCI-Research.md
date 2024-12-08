@@ -26,7 +26,6 @@ tags:
 <div style="text-align: left; margin-bottom: 10px;">
   <a href="https://aochen-jiao.github.io/" class="button-link">Home</a>
 </div>
-
 <h2> Some Reflections on HCI Research </h2>
 
 <h3> From Computers to Humans: Understanding the Core of HCI </h3>
@@ -56,3 +55,8 @@ If a company's product is akin to a realistic photograph, a research paper is mo
 Therefore, research prototypes (proof of concept) should not be judged by the standards of commercial products. These prototypes may lack technical maturity, but they carry researchers' deep reflections on problems. For instance, when boiling water generates steam that lifts a lid, the significance lies in understanding the principle behind it and imagining the potential of steam pressure, rather than immediately building a steam engine.
 
 Initially, I felt that research papers and projects within the lab varied greatly, with little commonality. Over time, however, I realized that all the research ultimately addresses a fundamental issue: how to optimize human resources across various tasks. This core question manifests in different forms across scenarios and serves as the underlying thread of the research. In our work, we should focus more on these high-level ideas and less on getting caught up in specific details.
+
+<div style="text-align: left; margin-bottom: 10px;">
+  <a href="https://aochen-jiao.github.io/" class="button-link">Home</a>
+</div>
+
