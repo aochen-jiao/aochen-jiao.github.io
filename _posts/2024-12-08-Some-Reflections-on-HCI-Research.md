@@ -5,9 +5,18 @@ permalink: /posts/2024/12/some-reflections-on-HCI-research/
 tags:
   - Research Thinking
 ---
+<div style="text-align: left; margin-bottom: 20px;">
+  <a href="https://aochen-jiao.github.io/" style="
+    text-decoration: none; 
+    background-color: #007BFF; 
+    color: white; 
+    padding: 8px 12px; 
+    border-radius: 5px; 
+    font-size: 1rem; 
+    font-weight: bold;">Home</a>
+</div>
 
 <h2> Some Reflections on HCI Research </h2>
-
 
 <h3> From Computers to Humans: Understanding the Core of HCI </h3>
 
