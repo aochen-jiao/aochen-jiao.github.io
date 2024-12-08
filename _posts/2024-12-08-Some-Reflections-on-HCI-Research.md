@@ -11,20 +11,18 @@ tags:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Reflections on HCI</title>
   <style>
-    /* Home 按钮的默认样式 */
     .home-button {
       text-decoration: none;
-      color: #007BFF; /* 蓝色文字 */
+      color: #007BFF; 
       font-size: 1rem;
       font-weight: normal;
-      transition: all 0.3s ease; /* 添加平滑过渡效果 */
+      transition: all 0.3s ease; 
     }
 
-    /* 鼠标悬停时的样式 */
     .home-button:hover {
-      font-weight: bold; /* 加粗文字 */
-      font-size: 1.2rem; /* 放大字体 */
-      color: #0056b3; /* 更深的蓝色 */
+      font-weight: bold; 
+      font-size: 1.2rem; 
+      color: #0056b3;
     }
   </style>
 </head>
