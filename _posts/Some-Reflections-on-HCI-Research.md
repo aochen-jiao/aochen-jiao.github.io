@@ -1,7 +1,6 @@
 ---
-title: 'Blog Post number 1'
+title: 'Some Reflections on HCI Research'
 date: 2024-12-08
-permalink: /posts/2012/08/blog-post-1/
 ---
 
 From Computers to Humans: Understanding the Core of HCI
