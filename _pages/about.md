@@ -100,12 +100,6 @@ Publication
   </script>
 </body>
 
-Blog
-------
-<ul>
-    <li><a href="/blog/post1.html">Some Thoughts on HCI Research</a></li>
-</ul>
-
 <style>
     .inline-code-news {
         background: none;
@@ -194,6 +188,12 @@ Blog
     }
   </style>
 </html>
+
+Blog
+------
+<ul>
+    <li><a href="/_posts">Some Thoughts on HCI Research</a></li>
+</ul>
 
 <!--
 <style>
