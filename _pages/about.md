@@ -192,6 +192,6 @@ Publication
 Blog
 ------
 <ul>
-    <li><a href="../_posts/2012-08-14-blog-post-1.md">Some Reflections on HCI Research</a></li>
+    <li><a href="../posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a></li>
 </ul>
 
