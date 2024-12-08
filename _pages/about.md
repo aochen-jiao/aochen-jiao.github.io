@@ -192,28 +192,6 @@ Publication
 Blog
 ------
 <ul>
-    <li><a href="../_posts/2012-08-14-blog-post-1.md">Some Thoughts on HCI Research</a></li>
+    <li><a href="../_posts/2012-08-14-blog-post-1.md">Some Reflections on HCI Research</a></li>
 </ul>
 
-<!--
-<style>
-  ul {
-      margin-top: 0;
-      padding-top: 0;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
-  .scrolling-div {
-    margin-bottom: 0;
-  }
-</style>
-<div class="scrolling-div" style="padding: 0; height: 30px; overflow-y: scroll; width: 100%; scrollbar-width: none; -ms-overflow-style: none; margin-top: 0;">
-  <ul>
-    <li><b>[Jun. 2024]</b> My first paper <i>Medusa3D</i> is accepted by <i>[MobileHCI'24](https://mobilehci.acm.org/2024/)</i>.</li>
-  </ul>
-</div>
-
-redirect_from: 
-  - /about/
-  - /about.html
--->
