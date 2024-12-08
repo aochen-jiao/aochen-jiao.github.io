@@ -11,7 +11,7 @@ tags:
     background-color: transparent; 
     color: black; 
     padding: 2px 4px; 
-    border: 1px grey; 
+    border: 1px solid grey; 
     border-radius: 3px; 
     font-size: 0.97 rem; 
     font-weight: 500;
