@@ -194,7 +194,7 @@ Blog
 <ul>
     <li>
       <span class="inline-code-news">[Dec. 2024]</span>
-      <span style="font-size: 0.98rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a></span>
+      <span style="font-size: 0.98rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a> (<i>Chinese Version</i>) </span>
     </li>
 </ul>
 
