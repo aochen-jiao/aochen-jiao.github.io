@@ -1,7 +1,10 @@
 ---
-title: 'Some Reflections on HCI Research'
+layout: post
+title: "Some Reflections on HCI Research"
 date: 2024-12-08
+categories: reflections hci
 ---
+
 Some Reflections on HCI Research
 ------
 
