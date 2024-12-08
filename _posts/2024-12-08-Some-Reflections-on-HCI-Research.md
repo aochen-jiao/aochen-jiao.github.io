@@ -5,19 +5,25 @@ permalink: /posts/2024/12/some-reflections-on-HCI-research/
 tags:
   - Research Thinking
 ---
-<div style="text-align: left; margin-bottom: 10px;">
-  <a href="https://aochen-jiao.github.io/" style="
+<style>
+  .button-link {
     text-decoration: none; 
     background-color: transparent; 
-    color: blue; 
-    padding: 4px 6px; 
+    color: grey; 
+    padding: 3px 4px; 
     border: 2px solid black; 
     border-radius: 5px; 
     font-size: 1rem; 
-    font-weight: bold; 
-    transition: all 0.2s ease-in-out;" 
-    onmouseover="this.style.fontSize='1.2rem';" 
-    onmouseout="this.style.fontSize='1rem';">Home</a>
+    font-weight: bold;
+    transition: font-size 0.2s;
+  }
+  .button-link:hover {
+    font-size: 1.1rem;
+  }
+</style>
+
+<div style="text-align: left; margin-bottom: 10px;">
+  <a href="https://aochen-jiao.github.io/" class="button-link">Home</a>
 </div>
 
 <h2> Some Reflections on HCI Research </h2>
