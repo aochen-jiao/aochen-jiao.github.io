@@ -11,10 +11,10 @@ tags:
     background-color: transparent; 
     color: black; 
     padding: 2px 4px; 
-    border: 2px solid black; 
-    border-radius: 5px; 
+    border: 1px grey; 
+    border-radius: 3px; 
     font-size: 0.97 rem; 
-    font-weight: normal;
+    font-weight: 500;
     transition: font-size 0.2s, text-decoration 0.2s;
   }
   .button-link:hover {
