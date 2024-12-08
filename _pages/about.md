@@ -192,6 +192,6 @@ Publication
 Blog
 ------
 <ul>
-    <li><a href="../posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a></li>
+    <li><a href="https://aochen-jiao.github.io/posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a></li>
 </ul>
 
