@@ -194,7 +194,7 @@ Blog
 <ul>
     <li>
       <span class="inline-code-news">[Dec. 2024]</span>
-      <span style="font-size: 0.98rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a> [<i>Chinese Version</i>] </span>
+      <span style="font-size: 0.98rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-reflections-on-HCI-research/">Some Reflections on HCI Research</a> [<a href="https://docs.google.com/document/d/1gwktQbuFJx7hizkwSB_6m7kWjhL0X2vfmbIrlCJRIT4/edit?usp=sharing"><i>Chinese Version</i></a>] </span>
     </li>
 </ul>
 
