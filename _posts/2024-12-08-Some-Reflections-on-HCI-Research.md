@@ -13,7 +13,7 @@ tags:
     padding: 2px 4px; 
     border: 2px solid black; 
     border-radius: 5px; 
-    font-size: 0.97rem; 
+    font-size: 0.97 rem; 
     font-weight: bold;
     transition: font-size 0.2s, text-decoration 0.2s;
   }
