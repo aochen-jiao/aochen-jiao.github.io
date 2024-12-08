@@ -192,7 +192,7 @@ Publication
 Blog
 ------
 <ul>
-    <li><a href="/_posts">Some Thoughts on HCI Research</a></li>
+    <li><a href="_posts/2012-08-14-blog-post-1.md">Some Thoughts on HCI Research</a></li>
 </ul>
 
 <!--
