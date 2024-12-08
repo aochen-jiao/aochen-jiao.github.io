@@ -3,7 +3,6 @@ layout: post
 title: "Some Reflections on HCI Research"
 date: 2024-12-08
 permalink: /posts/2024/12/some-reflections-on-HCI-research/
-categories: reflections hci
 ---
 
 Some Reflections on HCI Research
