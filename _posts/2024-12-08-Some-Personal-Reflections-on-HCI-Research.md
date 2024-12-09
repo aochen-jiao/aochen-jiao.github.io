@@ -1,5 +1,5 @@
 ---
-title: "Some Reflections on HCI Research"
+title: "Some Personal Reflections on HCI Research"
 date: 2024-12-08
 permalink: /posts/2024/12/some-reflections-on-HCI-research/
 tags:
@@ -27,7 +27,7 @@ tags:
 <div style="text-align: left; margin-bottom: 10px;">
   <a href="https://aochen-jiao.github.io/" class="button-link">Home</a>
 </div>
-<h2> Some Reflections on HCI Research </h2>
+<h2> Some Personal Reflections on HCI Research </h2>
 
 <h3> From Computers to Humans: Understanding the Core of HCI </h3>
 
