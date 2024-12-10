@@ -9,7 +9,7 @@ tags:
   .button-link {
     text-decoration: none !important; 
     background-color: transparent; 
-    color: #D3D3D3; 
+    color: #808080; 
     padding: 2px 3px; 
     border: 1.6px solid grey; 
     border-radius: 3px; 
@@ -18,9 +18,10 @@ tags:
     transition: font-size 0.2s, text-decoration 0.2s;
   }
   .button-link:hover {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: bold;
     text-decoration: underline;
+    color: solid grey;
   }
 </style>
 
