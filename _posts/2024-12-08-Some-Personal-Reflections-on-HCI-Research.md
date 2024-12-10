@@ -9,7 +9,7 @@ tags:
   .button-link {
     text-decoration: none !important; 
     background-color: transparent; 
-    color: solid grey; 
+    color: grey; 
     padding: 2px 4px; 
     border: 1.6px solid grey; 
     border-radius: 3px; 
