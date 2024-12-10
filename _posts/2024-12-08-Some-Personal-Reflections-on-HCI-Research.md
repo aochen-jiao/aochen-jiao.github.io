@@ -18,7 +18,7 @@ tags:
     transition: font-size 0.2s, text-decoration 0.2s;
   }
   .button-link:hover {
-    color: light blue;
+    color: #87CEEB;
   }
 </style>
 
