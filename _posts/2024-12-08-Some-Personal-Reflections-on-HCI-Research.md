@@ -19,7 +19,7 @@ tags:
   }
   .button-link:hover {
     font-size: 1rem;
-    font-weight: normal;
+    font-weight: 500;
     text-decoration: underline;
     color: solid grey;
   }
