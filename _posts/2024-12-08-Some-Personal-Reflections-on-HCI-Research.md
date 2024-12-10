@@ -18,10 +18,10 @@ tags:
     transition: font-size 0.2s, text-decoration 0.2s;
   }
   .button-link:hover {
-    font-size: 1rem;
+    font-size: 1 rem;
     font-weight: 500;
     text-decoration: underline;
-    color: solid grey;
+    color: blue;
   }
 </style>
 
