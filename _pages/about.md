@@ -99,6 +99,7 @@ Publication
     }
   </script>
 </body>
+</html>
 
 <style>
     .inline-code-news {
@@ -188,7 +189,6 @@ Publication
       }
     }
   </style>
-</html>
 
 Blog
 ------
