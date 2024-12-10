@@ -101,6 +101,15 @@ Publication
 </body>
 </html>
 
+Blog
+------
+<ul>
+    <li>
+      <span class="inline-code-news">[Dec. 2024]</span>
+      <span style="font-size: 1 rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-personal-reflections-on-HCI-research/">Some Personal Reflections on HCI Research</a> [<a href="https://docs.google.com/document/d/1gwktQbuFJx7hizkwSB_6m7kWjhL0X2vfmbIrlCJRIT4/edit?usp=sharing"><i>Chinese Version</i></a>] </span>
+    </li>
+</ul>
+
 <style>
     .inline-code-news {
         background: none;
@@ -189,13 +198,3 @@ Publication
       }
     }
   </style>
-
-Blog
-------
-<ul>
-    <li>
-      <span class="inline-code-news">[Dec. 2024]</span>
-      <span style="font-size: 1 rem;"><a href="https://aochen-jiao.github.io/posts/2024/12/some-personal-reflections-on-HCI-research/">Some Personal Reflections on HCI Research</a> [<a href="https://docs.google.com/document/d/1gwktQbuFJx7hizkwSB_6m7kWjhL0X2vfmbIrlCJRIT4/edit?usp=sharing"><i>Chinese Version</i></a>] </span>
-    </li>
-</ul>
-
