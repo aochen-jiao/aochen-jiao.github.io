@@ -81,6 +81,14 @@ Publication
 </body>
 </html>
 
+Service
+------
+<ul>
+  <li>
+    <span style="font-size: 0.98rem;">Reviewer, CHI '25 Late Breaking Work</span>
+  </li>
+</ul>
+
 Blog
 ------
 <ul>
