@@ -85,7 +85,7 @@ Service
 ------
 <ul>
   <li>
-    <span style="font-size: 0.98rem;">Reviewer, CHI '25 Late Breaking Work</span>
+    <span style="font-size: 0.98rem;">Reviewer: C&C '25, CHI '25 LBW</span>
   </li>
 </ul>
 
