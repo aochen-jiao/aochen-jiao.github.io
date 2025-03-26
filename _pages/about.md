@@ -85,7 +85,7 @@ Service
 ------
 <ul>
   <li>
-    <span style="font-size: 0.98rem;"><span style="color: #000000;">Reviewer</span>: C&C '25<sup>&dagger;</sup>, CHI '25 LBW. (&dagger; <i>Special Recognitions for Outstanding Reviews</i>)</span>
+    <span style="font-size: 0.98rem;"><span style="color: #000000;">Reviewer</span>: C&C '25<sup>&dagger;</sup>, CHI '25 LBW. <span class="nowrap">(&dagger; <i>Special Recognitions for Outstanding Reviews</i>)</span></span>
   </li>
 </ul>
 
