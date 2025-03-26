@@ -85,7 +85,7 @@ Service
 ------
 <ul>
   <li>
-    <span style="font-size: 0.98rem;"><span style="color: #000000;">Reviewer</span>: C&C '25 &dagger, CHI '25 LBW</span>
+    <span style="font-size: 0.98rem;"><span style="color: #000000;">Reviewer</span>: C&C '25<sup>&dagger;</sup>, CHI '25 LBW</span>
   </li>
 </ul>
 
