@@ -6,7 +6,7 @@ author_profile: true
 <h2 style="margin-top: 0.3rem;">About me</h2>
 
 <div style="font-size: 0.98rem;">
-<p style="text-align: justify;">I am a first-year CS PhD student at the <a href="https://www.sydney.edu.au/">University of Sydney</a>, supervised by Prof. <a href="https://www.eduardovelloso.com">Eduardo&nbsp;Velloso</a>. Before that, I worked as Research Assistant at <a href="https://www.cityu.edu.hk/">CityUHK</a> with Prof. <a href="https://weitaoxu.com">Weitao&nbsp;Xu</a> and Prof. <a href="https://shengdongzhao.com">Shengdong&nbsp;Zhao</a>. I obtained M.S. in Electrical and Computer Engineering from <a href="https://www.ucla.edu/">UCLA</a> and B.Eng. in Automation from <a href="https://en.tongji.edu.cn/">Tongji University</a>.</p>
+<p style="text-align: justify;">I am a first-year CS PhD student at the <a href="https://www.sydney.edu.au/">University of Sydney</a>, supervised by Prof. <a href="https://www.eduardovelloso.com">Eduardo&nbsp;Velloso</a>. Prior to that, I worked as Research Assistant at <a href="https://www.cityu.edu.hk/">CityUHK</a> with Prof. <a href="https://weitaoxu.com">Weitao&nbsp;Xu</a> and Prof. <a href="https://shengdongzhao.com">Shengdong&nbsp;Zhao</a>. I obtained M.S. in Electrical and Computer Engineering from <a href="https://www.ucla.edu/">UCLA</a> and B.Eng. in Automation from <a href="https://en.tongji.edu.cn/">Tongji University</a>.</p>
 
 <p style="text-align: justify;">My research interests lie in the intersection of HCI, ubiquitous computing and AR/VR, with a particular focus on enhancing human natural interaction capabilities through innovative wearable technologies. Outside the lab, I enjoy Chinese calligraphy and watching soccer matches.</p>
 
